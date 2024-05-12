@@ -1,6 +1,6 @@
-# <span>ASP.NET</span> Core Mini Projects list
+# <span>ASP.NET</span> Core .Net 8 Mini Projects
 
 | # | Name | Description |
 |---|:---|:---|
-| 0 | [Base Project](./0.BaseProject/README.MD) | Base project ASP.NET Core Web Api |
- 
+| 0 | [Base Project](./0-Base-Project) | Base project Web Api |
+| 1 | [Global Exception Handling](./1-Global-Exception-Handling) | Global exception handling using IExceptionHandler |
